@@ -30,4 +30,5 @@ The **Real Estate Price Prediction Shiny App** allows users to explore how diffe
 3. View the **Predicted Price** displayed on the main panel.
 
 ### Video demonstration
+https://github.com/user-attachments/assets/d8aaf658-7f7f-4401-b801-d8d7589e949a
 
