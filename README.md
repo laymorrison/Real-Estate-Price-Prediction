@@ -4,6 +4,8 @@ Project#1 Deployment: From AVM Model to Production
 * Laymoni Morrison & Radhika Puri
 * Email: lamorrison@chapman.edu & rapuri@chapman.edu 
 * Course: MGSC-410-02
+* Link to Powerpoint: https://docs.google.com/presentation/d/1-LSe8VO1pPurVkjoX7xtJhLGe6xbOeetKCztu3tnnaA/edit?usp=sharing 
+* Video demonstration displayed below
 
 # Real Estate Price Prediction Shiny App
 
