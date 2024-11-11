@@ -29,3 +29,5 @@ The **Real Estate Price Prediction Shiny App** allows users to explore how diffe
 2. Select the **features** that describe your property under each category.
 3. View the **Predicted Price** displayed on the main panel.
 
+### Video demonstration
+
